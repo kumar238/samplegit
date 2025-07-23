@@ -3,4 +3,8 @@ Hi i am kumari
 this is second line
 Hi i am kumar
 i am first editor
+<<<<<<< HEAD
 heloo ammm`
+=======
+aikjei
+>>>>>>> kumar
